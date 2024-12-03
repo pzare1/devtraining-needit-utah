@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8478edfc8392121040ccc590ceaad3fa" label="Clients" max_length="40" name="x_58872_needit_clients" type="collection">
+        <element default="Zare" label="LastName" max_length="50" name="lastname" type="string"/>
+    </element>
+</database>
